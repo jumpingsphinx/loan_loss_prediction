@@ -5,7 +5,7 @@ import os
 
 # You'll need to set your FRED API key
 # Get one from: https://fred.stlouisfed.org/docs/api/api_key.html
-FRED_API_KEY = '2d1ba78621d43edc128e7f0dd977e899'
+FRED_API_KEY = 'your_api_key_here'
 fred = Fred(api_key=FRED_API_KEY)
 
 # Define the series IDs and their descriptions
